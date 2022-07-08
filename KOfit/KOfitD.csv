@@ -1,0 +1,113 @@
+,gene_ID,type,gene_symbol,start,stop,description,pos,pathway,"D: L, S in maj 1"
+61,ECB_02541,cds,emrB,2707475,2709013,multidrug efflux system protein,2708244.0,,-0.10763079631165028
+88,ECB_02557,cds,srlR,2723907,2724680,DNA-bindng transcriptional repressor,2724293.5,,-0.10271486123208064
+104,ECB_02573,cds,hycC,2742275,2744101,NADH dehydrogenase subunit N,2743188.0,,-0.10053008111988576
+81,ECB_02550,cds,ygaD,2718708,2719205,competence damage-inducible protein A,2718956.5,"{'ebr00760': 'Nicotinate and nicotinamide metabolism', 'ebr01100': 'Metabolic pathways'}",-0.09148427230600767
+52,ECB_02532,cds,nrdF,2698254,2699213,ribonucleotide-diphosphate reductase beta subunit,2698733.5,"{'ebr00230': 'Purine metabolism', 'ebr00240': 'Pyrimidine metabolism', 'ebr01100': 'Metabolic pathways', 'ebr01232': 'Nucleotide metabolism'}",-0.06243580143096045
+66,ECB_02545,cds,yqaB,2711796,2712362,predicted hydrolase,2712079.0,,-0.0537214522132598
+94,ECB_02563,cds,hydN,2732438,2732965,"formate dehydrogenase-H, [4Fe-4S] ferredoxin subunit",2732701.5,,-0.0535487217600823
+40,ECB_02520,cds,ygaE,2690427,2691089,DNA-binding transcriptional dual regulator,2690758.0,,-0.05287069499476554
+23,ECB_02500,cds,ypjD,2669182,2670048,predicted inner membrane protein,2669615.0,,-0.05007316147596511
+56,ECB_02536,cds,ygaXY,2703168,2704352,predicted transporter,2703760.0,,-0.05000489177720943
+16,ECB_02493,cds,yfiN,2663790,2665016,predicted diguanylate cyclase,2664403.0,,-0.04710177410977194
+83,ECB_02552,cds,srlA,2720691,2721254,glucitol/sorbitol-specific enzyme IIC component of PTS,2720972.5,"{'ebr00051': 'Fructose and mannose metabolism', 'ebr01100': 'Metabolic pathways', 'ebr02060': 'Phosphotransferase system (PTS)'}",-0.046266293452053055
+102,ECB_02571,cds,hycE,2739622,2741331,"hydrogenase 3, large subunit",2740476.5,,-0.04445069331514686
+92,ECB_02561,cds,ygbD,2728772,2729905,nitric oxide reductase,2729338.5,,-0.042736432087293316
+48,ECB_02528,cds,ygaM,2694886,2695227,hypothetical protein,2695056.5,,-0.03875858499778816
+43,ECB_02523,cds,ygaV,2691964,2692263,predicted DNA-binding transcriptional regulator,2692113.5,,-0.03870073965175037
+55,ECB_02535,cds,proX,2701884,2702876,glycine betaine transporter subunit,2702380.0,{'ebr02010': 'ABC transporters'},-0.036992959153266974
+90,ECB_02559,cds,ygaA,2725635,2727149,anaerobic nitric oxide reductase transcription regulator,2726392.0,,-0.03690166940438332
+45,ECB_02525,cds,stpA,2692844,2693248,"DNA binding protein, nucleoid-associated",2693046.0,,-0.03593128872179704
+27,ECB_02504,cds,recN,2673090,2674751,recombination and repair protein,2673920.5,,-0.031991580003070064
+54,ECB_02534,cds,proW,2700762,2701826,glycine betaine transporter subunit,2701294.0,{'ebr02010': 'ABC transporters'},-0.031500298291690494
+96,ECB_02565,cds,ascF,2734384,2735841,fused cellobiose/arbutin/salicin-specific PTS enzymes,2735112.5,"{'ebr00010': 'Glycolysis / Gluconeogenesis', 'ebr02060': 'Phosphotransferase system (PTS)'}",-0.029948445566775887
+60,ECB_02540,cds,emrA,2706286,2707458,multidrug efflux system,2706872.0,,-0.02944452759781665
+53,ECB_02533,cds,proV,2699567,2700769,glycine betaine transporter subunit,2700168.0,{'ebr02010': 'ABC transporters'},-0.02874081600151853
+35,ECB_02515,cds,csiD,2683666,2684643,hypothetical protein,2684154.5,"{'ebr00310': 'Lysine degradation', 'ebr01100': 'Metabolic pathways', 'ebr01120': 'Microbial metabolism in diverse environments'}",-0.028215091747958387
+91,ECB_02560,cds,norV,2727336,2728775,anaerobic nitric oxide reductase flavorubredoxin,2728055.5,,-0.026991405387290723
+95,ECB_02564,cds,ascG,2733114,2734127,DNA-binding transcriptional repressor,2733620.5,,-0.026989465821737973
+17,ECB_02494,cds,yfiB,2665032,2665514,predicted outer membrane lipoprotein,2665273.0,,-0.024524103248231836
+36,ECB_02516,cds,ygaF,2684662,2685930,predicted enzyme,2685296.0,"{'ebr00310': 'Lysine degradation', 'ebr01100': 'Metabolic pathways', 'ebr01120': 'Microbial metabolism in diverse environments'}",-0.024494778067372627
+38,ECB_02518,cds,gabT,2687415,2688695,4-aminobutyrate aminotransferase,2688055.0,"{'ebr00250': 'Alanine, aspartate and glutamate metabolism', 'ebr00280': 'Valine, leucine and isoleucine degradation', 'ebr00310': 'Lysine degradation', 'ebr00410': 'beta-Alanine metabolism', 'ebr00640': 'Propanoate metabolism', 'ebr00650': 'Butanoate metabolism', 'ebr01100': 'Metabolic pathways', 'ebr01120': 'Microbial metabolism in diverse environments'}",-0.023914215833910048
+47,ECB_02527,cds,ygaC,2694402,2694746,hypothetical protein,2694574.0,,-0.02278683686840924
+110,ECB_02579,cds,hypD,2746996,2748117,HypD,2747556.5,,-0.02269918186552431
+44,ECB_02524,cds,ygaP,2692273,2692797,predicted inner membrane protein with hydrolase activity,2692535.0,,-0.022664051118445296
+82,ECB_02551,cds,mltB,2719350,2720435,membrane-bound lytic murein transglycosylase B,2719892.5,,-0.022391260768134958
+46,ECB_02526,cds,ygaW,2693916,2694365,predicted inner membrane protein,2694140.5,,-0.021277012013740524
+41,ECB_02521,cds,ygaU,2691090,2691539,hypothetical protein,2691314.5,,-0.02075232373135391
+13,ECB_02490,cds,aroF,2661487,2662557,"3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, tyrosine-repressible",2662022.0,"{'ebr00400': 'Phenylalanine, tyrosine and tryptophan biosynthesis', 'ebr01100': 'Metabolic pathways', 'ebr01110': 'Biosynthesis of secondary metabolites', 'ebr01230': 'Biosynthesis of amino acids', 'ebr02024': 'Quorum sensing'}",-0.01885028122706892
+62,ECB_02542,cds,ygaG,2709077,2709592,S-ribosylhomocysteinase,2709334.5,"{'ebr00270': 'Cysteine and methionine metabolism', 'ebr01100': 'Metabolic pathways', 'ebr01230': 'Biosynthesis of amino acids', 'ebr02024': 'Quorum sensing', 'ebr02026': 'Biofilm formation - Escherichia coli'}",-0.018764600100837376
+51,ECB_02531,cds,nrdE,2696100,2698244,ribonucleotide-diphosphate reductase alpha subunit,2697172.0,"{'ebr00230': 'Purine metabolism', 'ebr00240': 'Pyrimidine metabolism', 'ebr01100': 'Metabolic pathways', 'ebr01232': 'Nucleotide metabolism'}",-0.017947939116944266
+14,ECB_02491,cds,yfiL,2662767,2663132,hypothetical protein,2662949.5,,-0.01765108158619403
+37,ECB_02517,cds,gabD,2685953,2687401,"succinate-semialdehyde dehydrogenase I, NADP-dependent",2686677.0,"{'ebr00250': 'Alanine, aspartate and glutamate metabolism', 'ebr00310': 'Lysine degradation', 'ebr00350': 'Tyrosine metabolism', 'ebr00650': 'Butanoate metabolism', 'ebr00760': 'Nicotinate and nicotinamide metabolism', 'ebr01100': 'Metabolic pathways', 'ebr01120': 'Microbial metabolism in diverse environments'}",-0.014725688721483122
+93,ECB_02562,cds,hypF,2730033,2732285,carbamoyl phosphate phosphatase and maturation protein,2731159.0,,-0.01369124990447466
+24,ECB_02501,cds,yfjD,2670159,2671355,predicted inner membrane protein,2670757.0,,-0.01233364753106301
+39,ECB_02519,cds,gabP,2689006,2690406,gamma-aminobutyrate transporter,2689706.0,,-0.01045131744083511
+111,ECB_02580,cds,hypE,2748156,2749124,"carbamoyl phosphate phosphatase, hydrogenase 3 maturation protein",2748640.0,,-0.003102029954406741
+15,ECB_02492,cds,yfiR,2663282,2663800,hypothetical protein,2663541.0,,0.0014241412411856221
+50,ECB_02530,cds,nrdI,2695717,2696127,hypothetical protein,2695922.0,,0.005448458893222432
+5,ECB_02482,cds,clpB,2653008,2655581,protein disaggregation chaperone,2654294.5,,0.007078520967716068
+103,ECB_02572,cds,hycD,2741349,2742272,"hydrogenase 3, membrane subunit",2741810.5,,0.00924712746111122
+57,ECB_02537,cds,ygaZ,2704476,2705213,predicted transporter,2704844.5,,0.01099303835907357
+84,ECB_02553,cds,srlE,2721251,2722210,glucitol/sorbitol-specific enzyme IIB component of PTS,2721730.5,"{'ebr00051': 'Fructose and mannose metabolism', 'ebr01100': 'Metabolic pathways', 'ebr02060': 'Phosphotransferase system (PTS)'}",0.017315835929546386
+0,EBG00001040594,ncrna,StyR-44,2650685,2650784,,2650734.5,,
+1,ECB_t00045,ncrna,gltW,2650862,2650937,,2650899.5,{'ebr00970': 'Aminoacyl-tRNA biosynthesis'},
+2,EBG00001040520,ncrna,tRNA,2650865,2650937,,2650901.0,,
+3,ECB_r00006,ncrna,rrsG,2651023,2652564,,2651793.5,{'ebr03010': 'Ribosome'},
+4,EBG00001040595,ncrna,SSU_rRNA_archaea,2651025,2652559,,2651792.0,,
+6,ECB_02483,cds,yfiH,2655711,2656442,hypothetical protein,2656076.5,"{'ebr00230': 'Purine metabolism', 'ebr00270': 'Cysteine and methionine metabolism', 'ebr01100': 'Metabolic pathways', 'ebr01232': 'Nucleotide metabolism'}",
+7,ECB_02484,cds,rluD,2656439,2657419,23S rRNA pseudouridine synthase,2656929.0,,
+8,ECB_02485,cds,yfiO,2657554,2658291,predicted lipoprotein,2657922.5,,
+9,ECB_02486,cds,yfiA,2658562,2658903,cold shock protein associated with 30S ribosomal subunit,2658732.5,,
+10,ECB_02487,cds,pheL,2659007,2659054,pheA gene leader peptide,2659030.5,,
+11,ECB_02488,cds,pheA,2659152,2660312,fused chorismate mutase P/prephenate dehydratase,2659732.0,"{'ebr00400': 'Phenylalanine, tyrosine and tryptophan biosynthesis', 'ebr01100': 'Metabolic pathways', 'ebr01110': 'Biosynthesis of secondary metabolites', 'ebr01230': 'Biosynthesis of amino acids'}",
+12,ECB_02489,cds,tyrA,2660355,2661476,fused chorismate mutase T/prephenate dehydrogenase,2660915.5,"{'ebr00400': 'Phenylalanine, tyrosine and tryptophan biosynthesis', 'ebr00401': 'Novobiocin biosynthesis', 'ebr01100': 'Metabolic pathways', 'ebr01110': 'Biosynthesis of secondary metabolites', 'ebr01230': 'Biosynthesis of amino acids'}",
+18,ECB_02495,cds,rplS,2665590,2665937,50S ribosomal protein L19,2665763.5,{'ebr03010': 'Ribosome'},
+19,ECB_02496,cds,trmD,2665979,2666746,tRNA (guanine-N(1)-)-methyltransferase,2666362.5,,
+20,ECB_02497,cds,rimM,2666777,2667325,16S rRNA-processing protein,2667051.0,,
+21,ECB_02498,cds,rpsP,2667344,2667592,30S ribosomal protein S16,2667468.0,{'ebr03010': 'Ribosome'},
+22,ECB_02499,cds,ffh,2667729,2669090,Signal Recognition Particle (SRP) component with 4.5S RNA (ffs),2668409.5,"{'ebr02024': 'Quorum sensing', 'ebr03060': 'Protein export', 'ebr03070': 'Bacterial secretion system'}",
+25,ECB_02502,cds,grpE,2671410,2672003,heat shock protein,2671706.5,,
+26,ECB_02503,cds,ppnK,2672126,2673004,inorganic polyphosphate/ATP-NAD kinase,2672565.0,"{'ebr00760': 'Nicotinate and nicotinamide metabolism', 'ebr01100': 'Metabolic pathways', 'ebr01240': 'Biosynthesis of cofactors'}",
+28,ECB_02505,cds,smpA,2675089,2675241,small membrane lipoprotein,2675165.0,,
+29,ECB_02506,cds,yfjF,2675303,2675593,hypothetical protein,2675448.0,,
+30,ECB_02507,cds,yfjG,2675583,2676059,hypothetical protein,2675821.0,,
+31,ECB_02508,cds,smpB,2676191,2676673,SsrA-binding protein,2676432.0,,
+32,EBG00001040604,ncrna,tmRNA,2676888,2677250,,2677069.0,,
+33,ECB_02513,cds,insA-20,2682663,2682938,IS1 protein InsA,2682800.5,,
+34,ECB_02514,cds,insB-20,2682857,2683360,IS1 protein InsB,2683108.5,,
+42,ECB_02522,cds,yqaE,2691623,2691781,predicted membrane protein,2691702.0,,
+49,ECB_02529,cds,nrdH,2695475,2695720,glutaredoxin-like protein,2695597.5,,
+58,ECB_02538,cds,ygaH,2705203,2705538,predicted inner membrane protein,2705370.5,,
+59,ECB_02539,cds,emrR,2705629,2706159,DNA-binding transcriptional repressor of microcin B17 synthesis and multidrug efflux,2705894.0,,
+63,EBG00001040549,ncrna,MicA,2709661,2709732,,2709696.5,,
+64,ECB_02543,cds,gshA,2709742,2711298,glutamate-cysteine ligase,2710520.0,"{'ebr00270': 'Cysteine and methionine metabolism', 'ebr00480': 'Glutathione metabolism', 'ebr01100': 'Metabolic pathways', 'ebr01240': 'Biosynthesis of cofactors'}",
+65,ECB_02544,cds,yqaA,2711371,2711799,conserved inner membrane protein,2711585.0,,
+67,ECB_t00046,ncrna,argQ,2712643,2712719,,2712681.0,{'ebr00970': 'Aminoacyl-tRNA biosynthesis'},
+68,EBG00001040663,ncrna,tRNA,2712646,2712719,,2712682.5,,
+69,ECB_t00047,ncrna,argZ,2712918,2712994,,2712956.0,{'ebr00970': 'Aminoacyl-tRNA biosynthesis'},
+70,EBG00001040698,ncrna,tRNA,2712921,2712994,,2712957.5,,
+71,ECB_t00048,ncrna,argY,2713057,2713133,,2713095.0,{'ebr00970': 'Aminoacyl-tRNA biosynthesis'},
+72,EBG00001040559,ncrna,tRNA,2713060,2713133,,2713096.5,,
+73,ECB_t00049,ncrna,argV,2713332,2713408,,2713370.0,{'ebr00970': 'Aminoacyl-tRNA biosynthesis'},
+74,EBG00001040585,ncrna,tRNA,2713335,2713408,,2713371.5,,
+75,ECB_t00050,ncrna,serV,2713412,2713504,,2713458.0,{'ebr00970': 'Aminoacyl-tRNA biosynthesis'},
+76,EBG00001040543,ncrna,tRNA,2713415,2713504,,2713459.5,,
+77,ECB_02546,cds,csrA,2713820,2714005,carbon storage regulator,2713912.5,"{'ebr02020': 'Two-component system', 'ebr02026': 'Biofilm formation - Escherichia coli'}",
+78,ECB_02547,cds,alaS,2714240,2716870,alanyl-tRNA synthetase,2715555.0,{'ebr00970': 'Aminoacyl-tRNA biosynthesis'},
+79,ECB_02548,cds,recX,2716998,2717498,RecA regulator RecX,2717248.0,,
+80,ECB_02549,cds,recA,2717567,2718628,recombinase A,2718097.5,{'ebr03440': 'Homologous recombination'},
+85,ECB_02554,cds,srlB,2722221,2722592,glucitol/sorbitol-specific enzyme IIA component of PTS,2722406.5,"{'ebr00051': 'Fructose and mannose metabolism', 'ebr01100': 'Metabolic pathways', 'ebr02060': 'Phosphotransferase system (PTS)'}",
+86,ECB_02555,cds,srlD,2722596,2723375,3-ketoacyl-(acyl-carrier-protein) reductase,2722985.5,"{'ebr00051': 'Fructose and mannose metabolism', 'ebr01100': 'Metabolic pathways'}",
+87,ECB_02556,cds,gutM,2723481,2723840,DNA-binding transcriptional activator of glucitol operon,2723660.5,,
+89,ECB_02558,cds,gutQ,2724673,2725638,predicted phosphosugar-binding protein,2725155.5,,
+97,ECB_02566,cds,ascB,2735850,2737274,cryptic 6-phospho-beta-glucosidase,2736562.0,"{'ebr00010': 'Glycolysis / Gluconeogenesis', 'ebr00500': 'Starch and sucrose metabolism'}",
+98,ECB_02567,cds,hycI,2737433,2737903,protease,2737668.0,,
+99,ECB_02568,cds,hycH,2737896,2738306,HycH,2738101.0,,
+100,ECB_02569,cds,hycG,2738303,2739070,"hydrogenase 3 and formate hydrogenase complex, HycG subunit",2738686.5,,
+101,ECB_02570,cds,hycF,2739070,2739612,formate hydrogenlyase complex iron-sulfur protein,2739341.0,,
+105,ECB_02574,cds,hycB,2744098,2744709,"hydrogenase 3, Fe-S subunit",2744403.5,,
+106,ECB_02575,cds,hycA,2744834,2745295,regulator of the transcriptional regulator FhlA,2745064.5,,
+107,ECB_02576,cds,hypA,2745507,2745857,HypA,2745682.0,,
+108,ECB_02577,cds,hypB,2745861,2746733,HypB,2746297.0,,
+109,ECB_02578,cds,hypC,2746724,2746996,HypC,2746860.0,,
